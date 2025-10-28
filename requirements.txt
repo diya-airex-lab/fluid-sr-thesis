@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+h5py
+numpy
+scipy
+matplotlib
+seaborn
+tqdm
+Pillow
+MegaFlow2D

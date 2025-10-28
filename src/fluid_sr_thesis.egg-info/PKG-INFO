@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: fluid-sr-thesis
+Version: 0.1.0
+Summary: Super-resolution for fluid flows
+Home-page: UNKNOWN
+Author: Diya
+Author-email: diyanag@iisc.ac.in
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8

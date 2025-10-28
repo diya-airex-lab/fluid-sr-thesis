@@ -1,0 +1,26 @@
+#ignore model files and raw data
+
+models/data/raw/
+models/data/processed/
+models/checkpoints/ 
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.sav
+*.joblib
+*.pkl
+*.bin
+*.npz
+*.npy
+
+#remove venv
+venv/
+pyJHTDB/
+jenv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+.env
+.vscode/
